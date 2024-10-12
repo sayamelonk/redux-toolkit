@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "barang": "Xiaomi",
+      "price": 3000
+    },
+    {
+      "id": 4,
+      "barang": "Huawei",
+      "price": 4000
+    },
+    {
+      "id": 5,
+      "barang": "Nokia",
+      "price": 5000
+    },
+    {
+      "id": 6,
+      "barang": "Sony",
+      "price": 6000
+    },
+    {
+      "barang": "LG",
+      "price": 7000,
+      "id": 7
+    }
+  ]
+}
